@@ -1,0 +1,63 @@
+/* general */
+img {
+    height: auto;
+    width: 350px;
+}
+li {
+    font-size: 25px;
+}
+h1 {
+    color:rgb(54, 168, 54);
+}
+.methods {
+    font-size: 25px;
+}
+.ingredients {
+    font-size: 30px;
+}
+.container {
+    display: flex;
+}
+.ingredient {
+    width: 500px;
+}
+.method {
+    width: 600px;
+}
+
+
+/* main page */
+.main-h1 {
+    text-align: center;
+}
+.first-place {
+    color:rgb(209, 178, 0);
+    
+}
+.second-place {
+    color: silver;
+}
+.thrid-place {
+    color: rgb(204, 127, 51)
+}
+
+
+/* recipe burger page */
+#first-me,
+#first-ing {
+    color: rgb(209, 178, 0);
+}
+
+
+/*  recipe steak ribaye page*/
+#second-ing,
+#second-me {
+    color: silver;
+}
+
+
+/*  recipe salat cezar*/
+#third-ing,
+#third-me {
+    color: rgb(204, 127, 51);
+}
